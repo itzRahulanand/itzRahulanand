@@ -1,38 +1,57 @@
 # Hi there, I'm Rahul Anand 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=BTech+CSE+Student;AI+%7C+ML+%7C+Full+Stack+Developer;Building+Real-World+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=BTech+CSE+Student;AI+%7C+ML+%7C+Full+Stack+Developer;Building+Real-World+Intelligent+Systems;Passionate+About+Innovation+Through+Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-BTech%20CSE-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Web%20Development-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Opportunities-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BTech-CSE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Web-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **BTech 3rd-year Computer Science Engineering student** passionate about:
+I'm a **3rd-year BTech Computer Science Engineering student** passionate about developing impactful technology solutions.
 
-- 🌱 Artificial Intelligence & Machine Learning  
+I enjoy building projects that combine:
+
+- 🤖 Artificial Intelligence & Machine Learning  
 - 💻 Full Stack Web Development  
-- 🚜 Smart Agriculture Tech Solutions  
-- 🤖 ML Deployment Projects  
+- 🚜 Smart Agriculture Solutions  
+- 🧠 Intelligent Automation Systems  
 
-I love solving practical problems using software and intelligent systems.
+My goal is to create software that solves real-world problems and contributes to meaningful innovation.
 
 ---
 
-## 🛠 Interactive Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,html,css,git,github,vercel,supabase,tensorflow" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzRahulanand&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+Machine Learning Libraries:
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,supabase" />
 </p>
 
 ---
@@ -40,26 +59,26 @@ I love solving practical problems using software and intelligent systems.
 ## 🌟 Featured Projects
 
 ### 🚜 Crop Recommendation System
-ML-powered crop prediction based on soil and environmental conditions.
+Machine learning-powered system that predicts optimal crops based on soil and environmental conditions.
 
 ### 🩺 MediRAG
-Medical Retrieval-Augmented Generation AI healthcare assistant.
+Medical Retrieval-Augmented Generation platform integrating AI with healthcare information retrieval.
 
-### 🌐 AI Web Applications
-Intelligent web apps combining responsive UI with machine learning models.
+### 🌐 AI-Powered Web Applications
+Building intelligent web platforms combining strong frontend design with ML backend integration.
 
 ---
 
 ## 🎯 Current Goals
 
-- Deepen ML Engineering expertise  
-- Build production-grade AI applications  
-- Improve backend ML integration  
-- Prepare for software engineering roles in automobile industry  
+- Strengthen Machine Learning Engineering skills  
+- Build scalable AI-powered applications  
+- Improve backend architecture knowledge  
+- Prepare for software engineering opportunities in automobile technology  
 
 ---
 
-## 📈 Developer Snapshot
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzRahulanand&layout=compact&hide_border=true" />
@@ -79,6 +98,10 @@ Intelligent web apps combining responsive UI with machine learning models.
 
 ## 💡 Fun Fact
 
-I enjoy building AI systems that create real-world impact in agriculture, healthcare, and automation.
+I love creating projects where AI meets real-world impact — especially in agriculture, healthcare, and smart automation.
 
-⭐ *Always learning. Always building. Always improving.*
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
