@@ -1,5 +1,4 @@
-# Hi there, I'm Rahul Anand 👋
-
+# Hi there, I'm Rahul  
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science%20Student-BTech%20CSE-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Web%20Development-brightgreen?style=for-the-badge" />
