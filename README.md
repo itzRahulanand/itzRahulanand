@@ -1,91 +1,125 @@
-# Hi there, I'm Rahul  
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hello+World%2C+I'm+Rahul+Anand;Entering+the+Matrix...;AI+%7C+ML+%7C+Full+Stack+Developer;Building+Intelligent+Systems+for+the+Future" />
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-BTech%20CSE-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Web%20Development-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Opportunities-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODE-MATRIX%20ACTIVE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-AI%20ENGINEER-00ff41?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+```bash
+> initializing developer profile...
+> loading intelligence modules...
+> access granted: Rahul Anand
+```
 
-I'm a **BTech 3rd-year Computer Science Engineering student** passionate about building impactful tech solutions that combine:
+## 🕶️ WHO AM I
 
-- 🌱 Artificial Intelligence & Machine Learning  
-- 💻 Full Stack Web Development  
-- 🚜 Smart Agriculture Tech Solutions  
-- 🤖 Real-world ML Deployment Projects  
-
-I enjoy creating projects that solve practical problems and bridge software with industry applications — especially in agriculture and intelligent systems.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
-
-### Web Development
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-
-### AI / ML
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-black?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase)
+```yaml
+Name: Rahul Anand
+Education: BTech CSE (3rd Year)
+Role: AI/ML Developer + Full Stack Builder
+Mission: Build intelligent real-world systems
+Target: Software Engineer in Automobile Industry
+Status: Continuously Upgrading...
+```
 
 ---
 
-## 🌟 Featured Projects
+## ⚡ TECH MATRIX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,git,github,vercel,supabase" />
+</p>
+
+---
+
+## 🧠 AI MODULES LOADED
+
+- Machine Learning Model Development  
+- Intelligent Prediction Systems  
+- Data Processing Pipelines  
+- ML Web App Integration  
+
+---
+
+## 🚀 PROJECT DATABASE
 
 ### 🚜 Crop Recommendation System
-ML-powered crop prediction system recommending the best crops based on soil and environmental conditions.
+Machine learning-powered agricultural intelligence system recommending optimal crops.
 
 ### 🩺 MediRAG
-Medical Retrieval-Augmented Generation project integrating AI with healthcare knowledge retrieval.
+Medical AI assistant using Retrieval-Augmented Generation architecture.
 
-### 🌐 Web + AI Integrated Applications
-Building intelligent web platforms combining frontend UX with machine learning backend models.
-
----
-
-## 🎯 Current Goals
-
-- Deepen expertise in Machine Learning Engineering  
-- Build production-grade AI web apps  
-- Strengthen backend integration with ML models  
-- Prepare for software engineering roles in automobile tech industry  
+### 🌐 AI Web Systems
+Smart web apps combining intelligent backend models with responsive UI.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GITHUB ANALYTICS TERMINAL
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzRahulanand&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzRahulanand&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzRahulanand&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzRahulanand&theme=chartreuse-dark&hide_border=true" />
+</p>
 
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-itzRahulanand-black?style=for-the-badge&logo=github)](https://github.com/itzRahulanand)
-
----
-
-## 💡 Fun Fact
-
-I love building projects where AI meets real-world impact — especially in agriculture, healthcare, and smart automation.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzRahulanand&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+## ☠️ MATRIX CONTRIBUTION GRID
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzRahulanand&theme=github_dark" />
+</p>
+
+---
+
+## 🟢 LIVE SYSTEM FEED
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 CURRENT OBJECTIVES
+
+```diff
++ Master Production ML Deployment
++ Build Scalable AI SaaS Products
++ Strengthen Backend Engineering
++ Crack High-Impact Software Roles
+```
+
+---
+
+## 🌌 CONNECT TO THE NETWORK
+
+<p align="center">
+  <a href="https://github.com/itzRahulanand">
+    <img src="https://img.shields.io/badge/GitHub-itzRahulanand-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 💀 MATRIX QUOTE
+
+```cpp
+while(alive) {
+   learn();
+   build();
+   improve();
+}
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
+</p>
