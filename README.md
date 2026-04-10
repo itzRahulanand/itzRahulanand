@@ -1,125 +1,84 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hello+World%2C+I'm+Rahul+Anand;Entering+the+Matrix...;AI+%7C+ML+%7C+Full+Stack+Developer;Building+Intelligent+Systems+for+the+Future" />
+# Hi there, I'm Rahul Anand 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODE-MATRIX%20ACTIVE-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROLE-AI%20ENGINEER-00ff41?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=BTech+CSE+Student;AI+%7C+ML+%7C+Full+Stack+Developer;Building+Real-World+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-BTech%20CSE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Web%20Development-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Opportunities-orange?style=for-the-badge" />
 </p>
 
 ---
 
-```bash
-> initializing developer profile...
-> loading intelligence modules...
-> access granted: Rahul Anand
-```
+## 🚀 About Me
 
-## 🕶️ WHO AM I
+I'm a **BTech 3rd-year Computer Science Engineering student** passionate about:
 
-```yaml
-Name: Rahul Anand
-Education: BTech CSE (3rd Year)
-Role: AI/ML Developer + Full Stack Builder
-Mission: Build intelligent real-world systems
-Target: Software Engineer in Automobile Industry
-Status: Continuously Upgrading...
-```
+- 🌱 Artificial Intelligence & Machine Learning  
+- 💻 Full Stack Web Development  
+- 🚜 Smart Agriculture Tech Solutions  
+- 🤖 ML Deployment Projects  
+
+I love solving practical problems using software and intelligent systems.
 
 ---
 
-## ⚡ TECH MATRIX
+## 🛠 Interactive Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,git,github,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,html,css,git,github,vercel,supabase,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itzRahulanand&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
 
-## 🧠 AI MODULES LOADED
-
-- Machine Learning Model Development  
-- Intelligent Prediction Systems  
-- Data Processing Pipelines  
-- ML Web App Integration  
-
----
-
-## 🚀 PROJECT DATABASE
+## 🌟 Featured Projects
 
 ### 🚜 Crop Recommendation System
-Machine learning-powered agricultural intelligence system recommending optimal crops.
+ML-powered crop prediction based on soil and environmental conditions.
 
 ### 🩺 MediRAG
-Medical AI assistant using Retrieval-Augmented Generation architecture.
+Medical Retrieval-Augmented Generation AI healthcare assistant.
 
-### 🌐 AI Web Systems
-Smart web apps combining intelligent backend models with responsive UI.
-
----
-
-## 📊 GITHUB ANALYTICS TERMINAL
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzRahulanand&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzRahulanand&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzRahulanand&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+### 🌐 AI Web Applications
+Intelligent web apps combining responsive UI with machine learning models.
 
 ---
 
-## ☠️ MATRIX CONTRIBUTION GRID
+## 🎯 Current Goals
+
+- Deepen ML Engineering expertise  
+- Build production-grade AI applications  
+- Improve backend ML integration  
+- Prepare for software engineering roles in automobile industry  
+
+---
+
+## 📈 Developer Snapshot
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzRahulanand&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzRahulanand&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🟢 LIVE SYSTEM FEED
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎯 CURRENT OBJECTIVES
-
-```diff
-+ Master Production ML Deployment
-+ Build Scalable AI SaaS Products
-+ Strengthen Backend Engineering
-+ Crack High-Impact Software Roles
-```
-
----
-
-## 🌌 CONNECT TO THE NETWORK
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/itzRahulanand">
-    <img src="https://img.shields.io/badge/GitHub-itzRahulanand-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-itzRahulanand-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 💀 MATRIX QUOTE
+## 💡 Fun Fact
 
-```cpp
-while(alive) {
-   learn();
-   build();
-   improve();
-}
-```
+I enjoy building AI systems that create real-world impact in agriculture, healthcare, and automation.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
-</p>
+⭐ *Always learning. Always building. Always improving.*
