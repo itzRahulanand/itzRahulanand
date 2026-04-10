@@ -1,4 +1,4 @@
-# Hi there, I'm Rahul Anand
+# Hi there, I'm Rahul 
 
 <p align="center">
   <img src="https://img.shields.io/badge/BTech-CSE-blue?style=for-the-badge" />
